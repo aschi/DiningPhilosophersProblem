@@ -1,0 +1,13 @@
+target/
+*~
+\#*\#
+*.class
+*.swp
+*.db
+nbproject
+.DS_Store
+.classpath
+.metadata/
+.project
+.settings/
+
